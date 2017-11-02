@@ -10,6 +10,7 @@
 ## 算法
 
 - [插入排序](https://github.com/smalldu/Swift-DataStructure-Algorithm/blob/master/Algorithm/InsertionSort.md)
+- [线性检索](https://github.com/smalldu/Swift-DataStructure-Algorithm/blob/master/Algorithm/LinearSearch.md)
 - [二分法检索](https://github.com/smalldu/Swift-DataStructure-Algorithm/blob/master/Algorithm/BinarySearch.md)
 
 
