@@ -4,10 +4,13 @@
 
 ## 数据结构 
 
+- [栈 、队列](https://github.com/smalldu/Swift-DataStructure-Algorithm/blob/master/DataStructure/Data-Structure.md)
 
 
 ## 算法
 
+- [插入排序](https://github.com/smalldu/Swift-DataStructure-Algorithm/blob/master/Algorithm/InsertionSort.md)
+- [二分法检索](https://github.com/smalldu/Swift-DataStructure-Algorithm/blob/master/Algorithm/BinarySearch.md)
 
 
 
