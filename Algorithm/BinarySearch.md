@@ -100,8 +100,8 @@ extension Array{
 ```
 
 
-学习地址：https://github.com/raywenderlich/swift-algorithm-club/tree/master/Binary%20Search
-维基百科地址：https://en.wikipedia.org/wiki/Binary_search_algorithm
+[学习地址](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Binary%20Search)
+[维基百科地址](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 
 

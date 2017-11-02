@@ -127,8 +127,8 @@ print(list3.insertionSort(>))  // [98, 28, 10, 9, 8, 5, 4, 2, 0, -1]
 
 相比系统的sort，在100元素以内相差非常小，数据量变大O(2^n)就表现的比较差了。
 
-英文学习地址：https://github.com/raywenderlich/swift-algorithm-club/tree/master/Insertion%20Sort
-维基百科地址：https://en.wikipedia.org/wiki/Insertion_sort
+[英文学习地址](https://github.com/raywenderlich/swift-algorithm-club/tree/master/Insertion%20Sort)
+[维基百科地址](https://en.wikipedia.org/wiki/Insertion_sort)
 
 
 
